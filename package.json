@@ -20,5 +20,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.15.1"
-  }
+  },
+  "homepage": "git@github.com:JuneAlSi/NodePostgresExpressReact.git"
 }
