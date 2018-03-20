@@ -1,0 +1,13 @@
+{
+  "development": {
+    "use_env_variable": "JUNEDB_URL"
+  },
+  "test": {
+    "username": "pvcykbvo",
+    "password": "0VrAADjv_gTRjLaSFN4l0FlHBAiE4uNQ",
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
